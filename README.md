@@ -1,6 +1,3 @@
-# auto-img-dataset-generator
-
-
 auto-img-dataset-generator
 ===========================
 
