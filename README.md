@@ -17,10 +17,10 @@ pip install -r requirements.txt
 ```
 
 ### Execute
-#### Prepare your ID:
+#### Prepare your image list:
 imglist.txt stores the search queries. Multiple search queries can be added on each line.
 
-##### Sample content of id.txt
+##### Sample content of imglist.txt
     cat
     dog
     ...
@@ -32,7 +32,7 @@ python generator.py --input imglist.txt --output results --size 100
 
 To see all the arguments:
 ```
-python googleImageDownload.py --help
+python generator.py --help
 ```
 
 After running, all results will be in 'results' folder, with one folder per query.
