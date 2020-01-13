@@ -39,4 +39,4 @@ After running, all results will be in 'results' folder, with one folder per quer
 
 ### Note:
 1. The verison of chrome driver may not fit for chrome version, please check your chrome version and download corresponding driver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-2. The number of output images may not be equal to the size option since there could be some invalid url
+~~2. The number of output images may not be equal to the size option since there could be some invalid url
